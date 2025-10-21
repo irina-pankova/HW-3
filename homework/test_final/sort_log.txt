@@ -1,0 +1,14 @@
+  → sort_log.txt → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Documents
+📦 Перемещаем PDF-файлы:
+  → document3.pdf → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Documents
+📦 Перемещаем Word-документы:
+  → document2.docx → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Documents
+📦 Перемещаем изображения JPG:
+  → sample.jpg → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Images
+📦 Перемещаем изображения PNG:
+  → sample.png → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Images
+📦 Перемещаем изображения GIF:
+  → sample.gif → /Users/irinapankova/Desktop/git_class/HW-3/homework/test_final/Images
+✅ Сортировка завершена: вторник, 21 октября 2025 г. 00:31:11 (MSK)
+--------------------------------------
+

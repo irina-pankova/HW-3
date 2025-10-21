@@ -1,0 +1,17 @@
+--------------------------------------
+🕒 Сортировка запущена: вторник, 21 октября 2025 г. 00:27:07 (MSK)
+📦 Перемещаем текстовые документы:
+  → document1.txt → /Users/irinapankova/Desktop/git_class/HW-3/homework/Documents
+📦 Перемещаем PDF-файлы:
+  → document3.pdf → /Users/irinapankova/Desktop/git_class/HW-3/homework/Documents
+📦 Перемещаем Word-документы:
+  → document2.docx → /Users/irinapankova/Desktop/git_class/HW-3/homework/Documents
+📦 Перемещаем изображения JPG:
+  → sample.jpg → /Users/irinapankova/Desktop/git_class/HW-3/homework/Images
+📦 Перемещаем изображения PNG:
+  → sample.png → /Users/irinapankova/Desktop/git_class/HW-3/homework/Images
+📦 Перемещаем изображения GIF:
+  → sample.gif → /Users/irinapankova/Desktop/git_class/HW-3/homework/Images
+✅ Сортировка завершена: вторник, 21 октября 2025 г. 00:27:07 (MSK)
+--------------------------------------
+
